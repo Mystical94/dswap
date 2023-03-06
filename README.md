@@ -1,6 +1,6 @@
 # DSwap
 A one point destination to swap your cryptos on DComm blockchain.
-D = Decentralized || Distributed || DComm
+DSwap = Decentralized + Distributed + DComm
 
 ### 📝 Project Description
 

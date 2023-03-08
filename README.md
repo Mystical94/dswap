@@ -37,11 +37,11 @@ DSwap = Decentralized + Distributed + DComm
 - Creating a fully community-driven protocol in which the community votes on all protocol-related decisions.
 
 
-### 💪 Deployed Addresses (DComm GoldCoast Testnet)
-- Factory: [0xe7F7067C9ECAB27c5F7f13E02b13eD50931f6D0f](https://explorer.dcomm.network/evmaddress/0xe7F7067C9ECAB27c5F7f13E02b13eD50931f6D0f/network=goldcoast)
-- Router: [0x90D4e9eB792602AA7A7506b477B878307C35e24A](https://explorer.dcomm.network/evmaddress/0x90D4e9eB792602AA7A7506b477B878307C35e24A/network=goldcoast)
-- WDCM Address : [0x0c0d088A6Fe7C65754D821eB94Bce29c2Cfb0D1d](https://explorer.dcomm.network/evmaddress/0x0c0d088A6Fe7C65754D821eB94Bce29c2Cfb0D1d/network=goldcoast)
-- Multicall contract Address : [0x3221CE4Ade9a9564b34992a6d9Dd35E38D3884C9](https://explorer.dcomm.network/evmaddress/0x3221CE4Ade9a9564b34992a6d9Dd35E38D3884C9/network=goldcoast)
+### 💪 Deployed Smart Contract Addresses (DComm GoldCoast Testnet)
+- Factory Contract: [0xe7F7067C9ECAB27c5F7f13E02b13eD50931f6D0f](https://explorer.dcomm.network/evmaddress/0xe7F7067C9ECAB27c5F7f13E02b13eD50931f6D0f/network=goldcoast)
+- Router Contract: [0x90D4e9eB792602AA7A7506b477B878307C35e24A](https://explorer.dcomm.network/evmaddress/0x90D4e9eB792602AA7A7506b477B878307C35e24A/network=goldcoast)
+- WDCM Contract: [0x0c0d088A6Fe7C65754D821eB94Bce29c2Cfb0D1d](https://explorer.dcomm.network/evmaddress/0x0c0d088A6Fe7C65754D821eB94Bce29c2Cfb0D1d/network=goldcoast)
+- Multicall Contract: [0x3221CE4Ade9a9564b34992a6d9Dd35E38D3884C9](https://explorer.dcomm.network/evmaddress/0x3221CE4Ade9a9564b34992a6d9Dd35E38D3884C9/network=goldcoast)
 
 
 ### 🚫 License

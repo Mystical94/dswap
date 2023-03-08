@@ -6,9 +6,9 @@ DSwap = Decentralized + Distributed + DComm
 
 #### 😎 Idea
 - People put their money in banks thinking they have control over it, but in actuality, banks control the money.
-- 'Your Money, Your Control,' is the core of Blockchain Technology which is how Decentralized Exchange work under the hood and this has long attracted me. As laws tighten, more people are turning to decentralised exchanges, discovering the actual value of blockchain and decentralised exchanges.
+- 'Your Money, Your Control,' is the core of Blockchain Technology which is how Decentralized Exchange work under the hood and this has long attracted me. As laws tighten, more people are turning to decentralized exchanges, discovering the actual value of blockchain and decentralized exchanges.
 - Banks have unlimited control over money and can even refuse to enable customers to withdraw it in an emergency.
-- There is no transparency in the operations of the Banks and everingthing is Centralized
+- There is no transparency in the operations of the Banks and everything is Centralized
 - What's a better way to exchange your money while still having the ability to contribute to the DComm Ecosystem in the form of the fees which you anyhow have to pay to the big Institutions and banks.
 
 #### 💻 Implementation

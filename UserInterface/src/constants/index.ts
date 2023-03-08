@@ -12,7 +12,7 @@ export const ZERO_ADDRESS = '0x0000000000000000000000000000000000000000';
 export const FACTORY_ADDRESS = '0xe7F7067C9ECAB27c5F7f13E02b13eD50931f6D0f';
 export const ROUTER_ADDRESS = '0x90D4e9eB792602AA7A7506b477B878307C35e24A';
 
-export const LP_TOKEN_NAME = 'DSWAP Token';
+export const LP_TOKEN_NAME = 'DSwap Token';
 export const LP_TOKEN_SYMBOL = 'DSWAP';
 
 // a list of tokens by chain

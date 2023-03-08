@@ -23,7 +23,7 @@ DSwap = Decentralized + Distributed + DComm
 - DSwap enables anyone from anywhere in the globe to purchase and sell cryptocurrencies immediately using DComm Network.
 - DSwap will contribute to the projects being build on the DComm Network by providing them with the funds as decided by the community.
 - It does not discriminate anyone and will be open to everyone.
-- DSWAP Token can be earned by providing liquidity and earning a steady passive income.
+- DSwap Token can be earned by providing liquidity and earning a steady passive income.
 
 
 ### 📺 Video Demo
